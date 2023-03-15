@@ -1,8 +1,11 @@
 # ArmorstandAnimationAddon
  
-Simple Blender Add-on to create an armorstand-Rig, and export the animation as an .mcfunction that can be used in Game
+Simple Blender(2.8+) Add-on to create an armorstand-Rig, and export the animation as an .mcfunction that can be used in Game
 
 <img src="readme/blender-animation.gif" width="200" height="auto"> <img src="readme/minecraft-animation.gif" width="200" height="auto">  
+
+## Addon installation
+Simply Download the ["armorstand_addon.py"](https://github.com/raketenben/ArmorstandAnimationAddon/releases/tag/v1.0.0) File from the Release Page and install it via. Edit > Preferences > Add-ons > Install (Make sure its enabled after installation)
 
 ## Addon usage
 - Create a new Blend File
