@@ -2,13 +2,13 @@
  
 Simple Blender Add-on to create an armorstand-Rig, and export the animation as an .mcfunction that can be used in Game
 
-<img src="readme/blender-animation.gif" width="200" height="auto">  
-<img src="readme/minecraft-animation.gif" width="200" height="auto">  
+<img src="readme/blender-animation.gif" width="200" height="auto"> <img src="readme/minecraft-animation.gif" width="200" height="auto">  
 
 ## Addon usage
 - Create a new Blend File
 - Delete the Default Cube
-- Go to the armorstand Tab on the right side <img src="readme/setup_scene.png" width="200" height="auto">
+- Go to the armorstand Tab on the right side 
+<img src="readme/setup_scene.png" width="200" height="auto">
 - Now you can animate your armorstand however you like
 - Once you're done, you can export your animation as an .mcfunction  via. File > Export > Export Animation (.mcfunction)
 
@@ -24,4 +24,5 @@ Alternatively, you can also check "Loop Animation" in the export settings
 
 ## Additional Information
 By default some axis on the Rig are locked to be easily used with the [Statue Generator](https://raketenben.github.io/statue-generator/) but you can also simply unlock them in case you want to use the tool on normal armorstands
- <img src="readme/lock.png" width="200" height="auto">
+
+<img src="readme/lock.png" width="200" height="auto">
